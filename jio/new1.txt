@@ -1,1 +1,1 @@
-im learning aws devops
+im learning azure devops
